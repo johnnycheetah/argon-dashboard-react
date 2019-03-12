@@ -128,12 +128,12 @@ self.__precacheManifest = [
     "url": "/argon-dashboard-react/static/media/fa-regular-400.b5a61b22.svg"
   },
   {
-    "revision": "0079a0ab6bec4da7d6e16f2a2e87cd71",
-    "url": "/argon-dashboard-react/static/media/fa-solid-900.0079a0ab.ttf"
-  },
-  {
     "revision": "70e65a7d34902f2c350816ecfe2f6492",
     "url": "/argon-dashboard-react/static/media/fa-solid-900.70e65a7d.eot"
+  },
+  {
+    "revision": "0079a0ab6bec4da7d6e16f2a2e87cd71",
+    "url": "/argon-dashboard-react/static/media/fa-solid-900.0079a0ab.ttf"
   },
   {
     "revision": "b5472631dbace30d549357ec325b9c62",
