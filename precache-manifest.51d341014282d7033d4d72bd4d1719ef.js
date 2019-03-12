@@ -156,7 +156,7 @@ self.__precacheManifest = [
     "url": "/argon-dashboard-react/static/media/img-1-1000x900.b20ea51c.jpg"
   },
   {
-    "revision": "b4eb478ab93508147da53f57c5c05a60",
+    "revision": "899c016c05def1b710abdcb606285307",
     "url": "/argon-dashboard-react/index.html"
   }
 ];
