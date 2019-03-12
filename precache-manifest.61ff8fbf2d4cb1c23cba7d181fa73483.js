@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/argon-dashboard-react/static/media/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "1e311b18acdc031a7722",
+    "revision": "d3b989e59175cd23b964",
     "url": "/argon-dashboard-react/static/css/main.99b1eebb.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/argon-dashboard-react/static/js/runtime~main.c722ac7e.js"
   },
   {
-    "revision": "5680a83398b0f17f6358",
-    "url": "/argon-dashboard-react/static/js/2.5680a833.chunk.js"
+    "revision": "d7f2b1e6c916f185e094",
+    "url": "/argon-dashboard-react/static/js/2.d7f2b1e6.chunk.js"
   },
   {
     "revision": "230071328b705f8686cabd26a85ed6a5",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/argon-dashboard-react/static/media/argon-react.f38ddea9.png"
   },
   {
-    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
-    "url": "/argon-dashboard-react/static/media/nucleo-icons.2569aaea.woff"
-  },
-  {
     "revision": "426439788ec5ba772cdf94057f6f4659",
     "url": "/argon-dashboard-react/static/media/nucleo-icons.42643978.woff2"
+  },
+  {
+    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
+    "url": "/argon-dashboard-react/static/media/nucleo-icons.2569aaea.woff"
   },
   {
     "revision": "c1733565b32b585676302d4233c39da8",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/argon-dashboard-react/static/media/nucleo-icons.f82ec6ba.ttf"
   },
   {
-    "revision": "1e311b18acdc031a7722",
-    "url": "/argon-dashboard-react/static/js/main.1e311b18.chunk.js"
+    "revision": "d3b989e59175cd23b964",
+    "url": "/argon-dashboard-react/static/js/main.d3b989e5.chunk.js"
   },
   {
     "revision": "949a2b066ec37f5a384712fc7beaf2f1",
@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/argon-dashboard-react/static/media/fa-regular-400.381af09a.woff"
   },
   {
-    "revision": "73fe7f1effbf382f499831a0a9f18626",
-    "url": "/argon-dashboard-react/static/media/fa-regular-400.73fe7f1e.ttf"
-  },
-  {
     "revision": "7422060ca379ee9939d3b687d072acad",
     "url": "/argon-dashboard-react/static/media/fa-regular-400.7422060c.eot"
+  },
+  {
+    "revision": "73fe7f1effbf382f499831a0a9f18626",
+    "url": "/argon-dashboard-react/static/media/fa-regular-400.73fe7f1e.ttf"
   },
   {
     "revision": "48461ea4e797c9774dabb4a0440d2f56",
@@ -116,24 +116,24 @@ self.__precacheManifest = [
     "url": "/argon-dashboard-react/static/media/fa-solid-900.815694de.woff"
   },
   {
-    "revision": "9b6c8da3c489424e2b3e9c9fb6314b37",
-    "url": "/argon-dashboard-react/static/media/fa-brands-400.9b6c8da3.eot"
-  },
-  {
     "revision": "947b9537bc0fecc8130d48eb753495a1",
     "url": "/argon-dashboard-react/static/media/fa-brands-400.947b9537.ttf"
+  },
+  {
+    "revision": "9b6c8da3c489424e2b3e9c9fb6314b37",
+    "url": "/argon-dashboard-react/static/media/fa-brands-400.9b6c8da3.eot"
   },
   {
     "revision": "b5a61b229c9c92a6ac21f5b0e3c6e9f1",
     "url": "/argon-dashboard-react/static/media/fa-regular-400.b5a61b22.svg"
   },
   {
-    "revision": "0079a0ab6bec4da7d6e16f2a2e87cd71",
-    "url": "/argon-dashboard-react/static/media/fa-solid-900.0079a0ab.ttf"
-  },
-  {
     "revision": "70e65a7d34902f2c350816ecfe2f6492",
     "url": "/argon-dashboard-react/static/media/fa-solid-900.70e65a7d.eot"
+  },
+  {
+    "revision": "0079a0ab6bec4da7d6e16f2a2e87cd71",
+    "url": "/argon-dashboard-react/static/media/fa-solid-900.0079a0ab.ttf"
   },
   {
     "revision": "b5472631dbace30d549357ec325b9c62",
@@ -156,7 +156,7 @@ self.__precacheManifest = [
     "url": "/argon-dashboard-react/static/media/img-1-1000x900.b20ea51c.jpg"
   },
   {
-    "revision": "f24614d2438524a3a4e7601cb39f89cf",
+    "revision": "37e26045e11dc184998aa77df613c5e1",
     "url": "/argon-dashboard-react/index.html"
   }
 ];
