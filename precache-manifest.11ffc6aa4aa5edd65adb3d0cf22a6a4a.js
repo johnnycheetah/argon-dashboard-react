@@ -9,11 +9,11 @@ self.__precacheManifest = [
   },
   {
     "revision": "c722ac7e99944fb24708",
-    "url": "/argon-dashboard-react/static/js/runtime~main.c722ac7e.js"
+    "url": "/argon-dashboard-react/static/js/runtime~main.e1a1abba.js"
   },
   {
-    "revision": "d7f2b1e6c916f185e094",
-    "url": "/argon-dashboard-react/static/js/2.d7f2b1e6.chunk.js"
+    "revision": "bafb990341d885b9a874",
+    "url": "/argon-dashboard-react/static/js/2.bb3ce303.chunk.js"
   },
   {
     "revision": "230071328b705f8686cabd26a85ed6a5",
@@ -81,7 +81,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "d3b989e59175cd23b964",
-    "url": "/argon-dashboard-react/static/js/main.d3b989e5.chunk.js"
+    "url": "/argon-dashboard-react/static/js/main.e44f79da.chunk.js"
   },
   {
     "revision": "949a2b066ec37f5a384712fc7beaf2f1",
@@ -156,7 +156,7 @@ self.__precacheManifest = [
     "url": "/argon-dashboard-react/static/media/img-1-1000x900.b20ea51c.jpg"
   },
   {
-    "revision": "37e26045e11dc184998aa77df613c5e1",
+    "revision": "b4eb478ab93508147da53f57c5c05a60",
     "url": "/argon-dashboard-react/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/argon-dashboard-react/precache-manifest.825b57c64273d249ed93106c0191b374.js"
+  "/argon-dashboard-react/precache-manifest.11ffc6aa4aa5edd65adb3d0cf22a6a4a.js"
 );
 
 workbox.clientsClaim();
