@@ -1,5 +1,5 @@
 {
-  "main.css": "/argon-dashboard-react/static/css/main.99b1eebb.chunk.css",
+  "main.css": "/argon-dashboard-react/static/css/main.7d33f1b2.chunk.css",
   "main.js": "/argon-dashboard-react/static/js/main.743a4875.chunk.js",
   "main.js.map": "/argon-dashboard-react/static/js/main.743a4875.chunk.js.map",
   "runtime~main.js": "/argon-dashboard-react/static/js/runtime~main.e1a1abba.js",
@@ -7,9 +7,9 @@
   "static/js/2.bb3ce303.chunk.js": "/argon-dashboard-react/static/js/2.bb3ce303.chunk.js",
   "static/js/2.bb3ce303.chunk.js.map": "/argon-dashboard-react/static/js/2.bb3ce303.chunk.js.map",
   "index.html": "/argon-dashboard-react/index.html",
-  "precache-manifest.21bf7cbf9531620711f07d23cd2a2de8.js": "/argon-dashboard-react/precache-manifest.21bf7cbf9531620711f07d23cd2a2de8.js",
+  "precache-manifest.503528dda943fce515bf6e76eeb01f75.js": "/argon-dashboard-react/precache-manifest.503528dda943fce515bf6e76eeb01f75.js",
   "service-worker.js": "/argon-dashboard-react/service-worker.js",
-  "static/css/main.99b1eebb.chunk.css.map": "/argon-dashboard-react/static/css/main.99b1eebb.chunk.css.map",
+  "static/css/main.7d33f1b2.chunk.css.map": "/argon-dashboard-react/static/css/main.7d33f1b2.chunk.css.map",
   "static/media/angular.jpg": "/argon-dashboard-react/static/media/angular.368685db.jpg",
   "static/media/argon-react-white.png": "/argon-dashboard-react/static/media/argon-react-white.275a2629.png",
   "static/media/argon-react.png": "/argon-dashboard-react/static/media/argon-react.f38ddea9.png",
