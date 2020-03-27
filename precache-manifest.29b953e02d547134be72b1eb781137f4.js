@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55dab157d3cd1ad1315b2adc65d94646",
+    "revision": "e6ed85fbc8040687daf079007150807d",
     "url": "/argon-dashboard-react/index.html"
   },
   {
-    "revision": "c21450b0efd201f1c6fd",
-    "url": "/argon-dashboard-react/static/css/2.79d38b48.chunk.css"
+    "revision": "fcb38a82baecc145329d",
+    "url": "/argon-dashboard-react/static/css/2.643199f3.chunk.css"
   },
   {
-    "revision": "662f67c72d6e10661ddf",
-    "url": "/argon-dashboard-react/static/css/main.df33a716.chunk.css"
+    "revision": "c0361a1826744dad47d2",
+    "url": "/argon-dashboard-react/static/css/main.bfe50637.chunk.css"
   },
   {
-    "revision": "c21450b0efd201f1c6fd",
-    "url": "/argon-dashboard-react/static/js/2.37e4956e.chunk.js"
+    "revision": "fcb38a82baecc145329d",
+    "url": "/argon-dashboard-react/static/js/2.bd8eda23.chunk.js"
   },
   {
-    "revision": "b360fe52af12435f7089477efd3a01b1",
-    "url": "/argon-dashboard-react/static/js/2.37e4956e.chunk.js.LICENSE.txt"
+    "revision": "d1a68e8eedc8259f955dc78a761f676b",
+    "url": "/argon-dashboard-react/static/js/2.bd8eda23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "662f67c72d6e10661ddf",
-    "url": "/argon-dashboard-react/static/js/main.719f103b.chunk.js"
+    "revision": "c0361a1826744dad47d2",
+    "url": "/argon-dashboard-react/static/js/main.01b2f265.chunk.js"
   },
   {
     "revision": "8d0d562f4ec3c131ac27d52de65ecd17",
-    "url": "/argon-dashboard-react/static/js/main.719f103b.chunk.js.LICENSE.txt"
+    "url": "/argon-dashboard-react/static/js/main.01b2f265.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73476c042babe164b32c",
-    "url": "/argon-dashboard-react/static/js/runtime-main.5f34ef19.js"
+    "revision": "bbeb6ec90d4795cda455",
+    "url": "/argon-dashboard-react/static/js/runtime-main.86728b3b.js"
   },
   {
     "revision": "368685db949cddcd901ba54559a727d9",
